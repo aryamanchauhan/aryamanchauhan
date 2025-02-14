@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&width=900&height=100&lines=😎💪+wassup,+everyone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&width=900&height=100&lines=hey+there)](https://git.io/typing-svg)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman-chauhan-316b2326b)  
